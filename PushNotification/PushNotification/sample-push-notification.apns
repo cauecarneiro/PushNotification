@@ -1,0 +1,9 @@
+{
+    "Simulator Target Bundle": "com.anacoleone.PushNotification",
+    "aps": {
+        "alert": {
+            "title": "This is a test notification title",
+            "body": "This is a test notification body"
+        }
+    }
+}
